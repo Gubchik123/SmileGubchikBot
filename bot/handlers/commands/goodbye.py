@@ -6,7 +6,7 @@ from keyboard import make_keyboard, make_button
 
 
 @DP.message_handler(commands="goodbye")
-@DP.message_handler(Text(equals="Закончить веселье", ignore_case=True))
+@DP.message_handler(Text(equals="Закончить общение", ignore_case=True))
 async def command_goodbye(message: types.Message) -> None:
     """The handler for the 'goodbye' command"""
     markup = make_keyboard(width=1)
