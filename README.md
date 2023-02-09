@@ -1,9 +1,11 @@
-<a href="http://t.me/SmileGubchikBot" target="_blank"><img title="SmileGubchikBot" alt="Header image" src="./SmileGubchikBot.png"></a>
+<a href="http://t.me/SmileGubchikBot" target="_blank"><img title="SmileGubchikBot" alt="Header image" src="./md_images/SmileGubchikBot.png"></a>
 _Bot for jokes and memes_
 
 ### Demo
 
 Click **<a href="http://t.me/SmileGubchikBot" target="_blank">here</a>** to open telegram SmileGubchikBot
+
+<img title="Demo" alt="Demo image" src="./md_images/demo.jpg">
 
 ### Project modules (requirements.txt)
 
