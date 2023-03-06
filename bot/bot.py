@@ -1,5 +1,6 @@
 import logging
 
+from aiogram import executor
 from aiogram.utils.exceptions import TelegramAPIError
 
 import handlers
@@ -11,8 +12,8 @@ if __name__ == "__main__":
         format="%(name)s: [%(filename)s - %(lineno)d] #%(levelname)-8s (%(asctime)s) %(message)s",
         level=logging.INFO,
     )
-    
+
     try:
-        DP.start_polling()
-    except TelegramAPIError as e:
+        executor.start_polling(DP)
+    except TelegramAPIError:
         pass
