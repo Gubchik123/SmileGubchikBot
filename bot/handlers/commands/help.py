@@ -20,7 +20,12 @@ async def command_help(message: types.Message) -> None:
         Приятного использования!!!
 
         Контакты автора бота:
-        Instagram: https://www.instagram.com/nikitos.1746/
+        CV site: https://nikita-hubariev.me
+        LinkedIn: https://www.linkedin.com/in/nikita-hubariev
+        Instagram: https://www.instagram.com/nikitos.1746
+
+        Другие проекты автора доступны на:
+        Project board: https://gubchik123-project-board.netlify.app
         GitHub: https://github.com/Gubchik123
 
         Другой бот автора: @WeatherGubchikBot
