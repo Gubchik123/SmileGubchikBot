@@ -20,7 +20,7 @@ async def command_help(message: types.Message) -> None:
         Приятного использования!!!
 
         Контакты автора бота:
-        CV site: https://nikita-hubariev.me
+        CV site: https://hubariev.com
         LinkedIn: https://www.linkedin.com/in/nikita-hubariev
         Instagram: https://www.instagram.com/notwhale.1746
 
