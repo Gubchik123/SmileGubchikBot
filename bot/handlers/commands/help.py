@@ -25,7 +25,7 @@ async def command_help(message: types.Message) -> None:
         Instagram: https://www.instagram.com/notwhale.1746
 
         Другие проекты автора доступны на:
-        Project board: https://gubchik123-project-board.netlify.app
+        Project board: https://portfolio.hubariev.com
         GitHub: https://github.com/Gubchik123
 
         Другой бот автора: @WeatherGubchikBot
