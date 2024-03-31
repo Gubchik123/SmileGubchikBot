@@ -46,3 +46,8 @@ Run the bot
 ```
 
 > **Note:** Don't forget about environment variables
+
+            
+### License
+
+[SmileGubchikBot](https://github.com/Gubchik123/SmileGubchikBot) is licensed under the [MIT License](https://github.com/Gubchik123/SmileGubchikBot/blob/master/LICENSE.md).
