@@ -22,7 +22,7 @@ async def command_help(message: types.Message) -> None:
         Контакты автора бота:
         CV site: https://hubariev.com
         LinkedIn: https://www.linkedin.com/in/nikita-hubariev
-        Instagram: https://www.instagram.com/notwhale.1746
+        Instagram: https://www.instagram.com/notwhale.1691
 
         Другие проекты автора доступны на:
         Project board: https://portfolio.hubariev.com
